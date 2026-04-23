@@ -1,6 +1,6 @@
 <h1>Small Python Projects</h1>
 <p>Small Python project that execute mainly on the terminal. I used them to learn Python fundamentals.</p>
-<p>Technologies and concepts: Python, loops, conditionals, OOP, file reading, input taking and formatting</p>
+<p>Technologies and concepts: Python modules, loops, conditionals,file reading, input taking and formatting, exceptions</p>
 
 <h2>simple-calculator.py</h2>
 <p>The simple-calculator.py has methods to add, subtract, multiply and divide floats entered by an user and provide the result of the calculation. Concepts: Loops, Methods </p>
