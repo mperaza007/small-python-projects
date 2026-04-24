@@ -32,7 +32,8 @@
 </ul>
 
 <h2>password-generator.py</h2>
-<p></p>
+<p>Generates a password using guidelines taken from user (e.g. specify the length, include letters, include numbers, include special characters?, etc.) </p>
 <h2>organize-files.py</h2>
+<p></p>
 
 <h2>personal-finance-tracker.py</h2>
