@@ -38,3 +38,10 @@
 <p>Scans the folder where you run it and automatically sorts files into folders based on their file type. It creates different files according to the extension of the files (IMAGES, EXE, VIDEOS, PDF, etc.) concepts: Dictionaries, conditionals, loops, File System </p>
 
 <h2>personal-finance-tracker.py</h2>
+<p>Simple command-line finance tracker. It lets you:</p>
+<ul>
+<li>Add income or expenses</li>
+<li>View all transactions</li>
+<li>See a summary (total income, expenses, balance)</li>
+</ul>
+<p>It stores everything in a text file so your data persists between runs. Concepts: Loops, File Handling, String Manipulation</p>
