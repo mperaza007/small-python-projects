@@ -32,8 +32,9 @@
 </ul>
 
 <h2>password-generator.py</h2>
-<p>Generates a password using guidelines taken from user (e.g. specify the length, include letters, include numbers, include special characters?, etc.) </p>
+<p>Generates a password using guidelines taken from user (e.g. specify the length, include letters, include numbers, include special characters?, etc.) Concepts: Loops, methods, string manipulation</p>
+
 <h2>organize-files.py</h2>
-<p></p>
+<p>Scans the folder where you run it and automatically sorts files into folders based on their file type. It creates different files according to the extension of the files (IMAGES, EXE, VIDEOS, PDF, etc.) concepts: Dictionaries, conditionals, loops, File System </p>
 
 <h2>personal-finance-tracker.py</h2>
